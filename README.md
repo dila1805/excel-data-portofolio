@@ -14,8 +14,25 @@ Saya memiliki pengalaman dalam pengolahan data transaksi, administrasi, dan pemb
 
 ## Projects
 
-### 1. Sales Dashboard Analysis
-Menganalisis data penjualan menggunakan Excel.
+### 1. Sales Dashboard – Toko Sembako
+
+Dashboard ini dibuat menggunakan Microsoft Excel untuk menganalisis data penjualan toko sembako.
+
+Fitur analisis:
+- Total transaksi
+- Total sales
+- Total produk terjual
+- Produk terlaris
+- Brand terlaris
+- Customer teratas
+- Analisis penjualan bulanan
+- Analisis metode pembayaran
+
+Tools:
+- Microsoft Excel
+- Pivot Table
+- Charts
+- Data Visualization
 
 ### 2. Data Cleaning with Google Sheets
 Project ini menunjukkan proses membersihkan data menggunakan Google Sheets.

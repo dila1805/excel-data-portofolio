@@ -1,4 +1,4 @@
-# Data Portfolio – Nur Padilah
+# Data Portofolio – Nur Padilah
 
 Halo, saya Nur Padilah.
 

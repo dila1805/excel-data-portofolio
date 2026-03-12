@@ -26,7 +26,7 @@ Teknik yang digunakan:
 - Text to Columns
 - Find & Replace
 - Ekstraksi data dari kode pegawai
-- 
+  
 ### 3. Finance Dashboard
 Membuat dashboard laporan keuangan sederhana.
 
